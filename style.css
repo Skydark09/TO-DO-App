@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+  margin: 10px auto;
+}
+
+ul {
+  /* background-color: aqua; */
+  width: 300px;
+}
+li {
+  background-color: antiquewhite;
+  /* margin: 0 10px; */
+}
+
+.del {
+  background-color: red;
+  border-radius: 5px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.upd {
+  background-color: skyblue;
+  border-radius: 5px;
+  margin-left: 5px;
+  margin-top: 10px;
+}
